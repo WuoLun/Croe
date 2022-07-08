@@ -35,6 +35,44 @@ Croe是一个开源的匿名信项目，通过一些匿名信件，来达到秘�
 
 ![](Screenshot_20220708_102833.jpg)
 
+##配置邮箱
+文件`Server/send.php`为邮箱配置文件，第**66-81**行为邮箱配置
+### 配置预览
+```php
+// 设置发送的邮件的编码
+
+$mail->CharSet = 'UTF-8';
+
+// 设置发件人昵称 显示在收件人邮件的发件人邮箱地址前的发件人姓名
+
+$mail->FromName = '';
+
+// smtp登录的账号
+
+$mail->Username = '';
+
+// smtp登录的密码 或 使用生成的授权码
+
+$mail->Password = '';
+
+// 设置发件人邮箱地址 同登录账号
+
+$mail->From = '';
+
+// 邮件正文是否为html编码 注意此处是一个方法
+
+$mail->isHTML(true);
+
+$mail->addReplyTo('', 'info'); //回复的时候回复给哪个邮箱 建议和发件人一致
+
+// 设置收件人邮箱地址
+//方法POST不用修改，仅开发时可修改
+$mail->addAddress($_POST['email']);
+
+$mail->addAddress('');
+```
+
+
 ### 帮助
 你可提交issues，我们会在48小时内查看并回复！
 
