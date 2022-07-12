@@ -1,17 +1,15 @@
 ![](https://s2.loli.net/2022/07/12/YvMDmqbVdLRWzCl.png)
 # Croe
-![](https://img.shields.io/badge/version-2.1-green)![](https://img.shields.io/badge/auther-Charles-blue)
-
+![](https://img.shields.io/github/stars/WuoLun/Croe)
+[![GitHub license](https://img.shields.io/github/license/WuoLun/Croe)](https://github.com/WuoLun/Croe/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/WuoLun/Croe)](https://github.com/WuoLun/Croe/issues)
 Croe是一个开源的匿名信项目，通过一些匿名信件，来达到秘密传输心意的想法
 ## 优势
-- ✴️代码完全开放
 - 🗯官方询问支持
 - 🔨高的可开发度
-- 😎小的，快速的大小
 - 🔰支持AJAX
-- 🔰支持数据库
-- 💐开发中......
-
+- 🔰支持数据库（Only 2.0.x）
+- 🤭更多正在开发！
 
 # 安装
 推荐配置：
