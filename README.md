@@ -1,5 +1,6 @@
 ![](https://s2.loli.net/2022/07/12/YvMDmqbVdLRWzCl.png)
 # Croe
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/WuoLun/Croe)
 ![](https://img.shields.io/github/stars/WuoLun/Croe)
 [![GitHub license](https://img.shields.io/github/license/WuoLun/Croe)](https://github.com/WuoLun/Croe/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/WuoLun/Croe)](https://github.com/WuoLun/Croe/issues)
