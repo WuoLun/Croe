@@ -1,4 +1,6 @@
+![](https://s2.loli.net/2022/07/12/YvMDmqbVdLRWzCl.png)
 # Croe
+![](https://img.shields.io/badge/version-2.1-green)![](https://img.shields.io/badge/auther-Charles-blue)
 Croe是一个开源的匿名信项目，通过一些匿名信件，来达到秘密传输心意的想法
 ## 优势
 - ✴️代码完全开放
