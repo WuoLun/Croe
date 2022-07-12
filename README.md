@@ -3,6 +3,7 @@
 ![](https://img.shields.io/github/stars/WuoLun/Croe)
 [![GitHub license](https://img.shields.io/github/license/WuoLun/Croe)](https://github.com/WuoLun/Croe/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/WuoLun/Croe)](https://github.com/WuoLun/Croe/issues)
+![](https://img.shields.io/badge/author-Charles-blue)
 Croe是一个开源的匿名信项目，通过一些匿名信件，来达到秘密传输心意的想法
 ## 优势
 - 🗯官方询问支持
