@@ -12,6 +12,7 @@ Croe是一个开源的匿名信项目，通过一些匿名信件，来达到秘�
 - 🔨高的可开发度
 - 🔰支持AJAX
 - 🔰支持数据库（Only 2.0.x）
+- ❇️官方JSON数据库支持
 - 🤭更多正在开发！
 
 # 安装
@@ -37,8 +38,10 @@ $subject="";//邮件主题
 **无需复制粘贴，配置文件有**
 
 # API
-可前往[Wiki](https://github.com/WuoLun/Wiki/API)查看接口
+可前往[官方Wiki站](https://wiki.x-turbo.top/croe/#/API)查看接口
 
+# 开发
+使用Croe开发是很容易的，官方Wiki站提供了很多开发案例，你可以[前往查看](https://wiki.x-turbo.top/croe)
 ### 帮助
 你可提交issues，我们会在48小时内查看并回复！
 
